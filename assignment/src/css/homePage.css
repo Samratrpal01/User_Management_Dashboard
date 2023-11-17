@@ -1,0 +1,9 @@
+#homePage {
+    background-image: url('https://img.freepik.com/premium-vector/hand-drawn-people-working-together-illustration_52683-76157.jpg?w=2000');
+    background-size: cover; /* Ensures the background image covers the entire element */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+    height: 100vh; /* Adjust the height as needed */
+    /* Add any other styles or properties you may need for #homePage */
+}
+
